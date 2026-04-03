@@ -1,0 +1,5 @@
+{
+  "sequence_length": 10,
+  "sequence_stride": 1,
+  "require_fully_stable_window_label": false
+}
